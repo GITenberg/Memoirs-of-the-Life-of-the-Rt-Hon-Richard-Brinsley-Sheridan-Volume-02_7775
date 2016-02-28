@@ -1,0 +1,32 @@
+_repo: Memoirs-of-the-Life-of-the-Rt-Hon-Richard-Brinsley-Sheridan-Volume-02_7775
+creator:
+  author:
+    agent_name: Moore, Thomas
+    aliases:
+    - Moore, Tom
+    - Brown, Thomas, the younger
+    - Little, Thomas
+    - Moore, Anacreon
+    birthdate: 1779
+    deathdate: 1852
+    gutenberg_agent_id: '2185'
+    url: http://www.gutenberg.org/2009/agents/2185
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Moore
+description: ''
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theatrical managers -- Great Britain -- Biography'
+- !lcc 'PR'
+- !lcsh 'Dramatists, English -- 18th century -- Biography'
+- !lcsh 'Legislators -- Great Britain -- Biography'
+- !lcsh 'Sheridan, Richard Brinsley, 1751-1816'
+- !lcsh 'Great Britain -- Politics and government -- 1760-1820'
+title: Memoirs of the Life of the Rt. Hon. Richard Brinsley Sheridan — Volume 02
+url: http://www.gutenberg.org/ebooks/7775
